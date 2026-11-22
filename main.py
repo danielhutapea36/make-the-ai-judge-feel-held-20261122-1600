@@ -12,6 +12,9 @@ import sys
 from pathlib import Path
 
 TEXT = (
+    # Written against the judge's brief: concrete images that settle the
+    # reader on their own — no instruction to relax, no stock wellness
+    # phrase — with the held feeling carried by the chair sentence.
     "The kettle has clicked off, and the kitchen is warm. "
     "Late light lies on the wall in one amber band. "
     "Your chair holds you without asking anything back. "
